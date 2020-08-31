@@ -1,0 +1,6 @@
+pass1
+pass2
+real
+pass4
+pass5
+#wordlist
