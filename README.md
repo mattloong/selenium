@@ -1,3 +1,3 @@
 # selenium
-Automated scripting
+Automated scripting dictionary attack
 https://www.youtube.com/watch?v=pqsBnnSS440
